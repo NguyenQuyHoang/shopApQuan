@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Shopgg{
+    width: 100%;
+    height: 500px;
+    margin: auto;
+    margin-top: 10px;
+    
+    background:linear-gradient(99deg,#cacaca, #f7faf822)
+}
+.Shop_img{
+    width: auto;
+    height: 500px;
+    margin-left: -12px;
+    opacity:90%;
+    
+
+}

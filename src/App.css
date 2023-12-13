@@ -1,0 +1,721 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+/* Css cho phần Header là phần đầu của trang web */
+.App .header-nav{
+  background-color: #009556;
+  height: 30px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.App .header-nav .container{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  align-items: center;
+  position: relative;
+  z-index: 10;
+}
+
+.App .header-nav .container p{
+  margin: 0;
+  cursor: pointer;
+  user-select: none;
+  font-weight: 400;
+  display: flex;
+}
+
+.App .header-nav .container p:hover{
+  color: #d0d0d0;
+}
+
+
+.App .header-nav .container p span{
+  position: relative;
+  margin-right: 3px;
+}
+
+.App .header-nav .container p span::after{
+  content: "";
+  width: 10px;
+  height: 10px;
+  background-color: rgb(255, 80, 80);
+  border: none;
+  border-radius: 50pt;
+  position: absolute;
+  top: -4px;
+  right: -4px;
+
+}
+/* Kết thúc phần Header  */
+
+/* Css cho phần navigation-search  */
+.SearchNav{
+  position: relative;
+  z-index: 999;
+}
+.navbar .container-fluid{
+  height: 50px;
+  padding: 0 20px;
+}
+
+.navbar .container-fluid img{
+  width: 50px;
+  height: 50px;
+  border-radius: 50pt;
+  object-fit: contain;
+  background-color: antiquewhite;
+  cursor: pointer;
+  user-select: none;
+}
+
+.navbar .container-fluid form{
+  width: 50%;
+  height: 40px;
+}
+
+.navbar .container-fluid .account-nav{
+  display: flex;
+  height: 100%;
+  align-items: center;
+  gap: 0 30px;
+}
+
+.navbar .container-fluid .account-nav p{
+  position: relative;
+  width: max-content;
+  height: 100%;
+  padding: 0 5px;
+  margin: 0;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 0 3px;
+  cursor: pointer;
+  user-select: none;
+  font-size: 15px;
+}
+
+.navbar .container-fluid .account-nav p:hover{
+  color: rgb(117, 117, 117);
+}
+
+.navbar .container-fluid .account-nav p span{
+  font-size: 35px;
+  color: #009556;
+}
+
+.navbar .container-fluid .account-nav .user .popoverUser{
+  display: none;
+  position: absolute;
+  width: 200px;
+  padding: 20px 10px;
+  background-color: #dcebe5;
+  top: 100%;
+  right: 0;
+  border-radius: 5px;
+  color: rgb(85, 85, 85);
+}
+
+.navbar .container-fluid .account-nav .user:hover .popoverUser{
+  display: block;
+}
+
+
+
+.navbar .container-fluid .account-nav p:hover span{
+  color: #01c473;
+}
+
+.navbar .container-fluid .account-nav p .notify{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: rgb(253, 79, 79);
+  border-radius: 50pt;
+  top: -3px;
+  right: 35px;
+  font-size: 1rem;
+  color: white;
+  font-weight: 400;
+}
+
+/* Css cho phần type-product navi  */
+
+.Navigation .Type-products{
+  position: relative;
+  z-index: 99;
+  margin-top: 20px;
+  height: 50px;
+  background-color: #f6f5f5;
+}
+
+.Navigation .Type-products ul{
+  list-style-type: none;
+}
+
+.Navigation .Type-products ul{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+
+.Navigation .Type-products ul li{
+  position: relative;
+}
+
+.Navigation .Type-products ul li .box{
+  position: relative;
+  width: 150px;
+  height: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.Navigation .Type-products ul a{
+  position: relative;
+  text-decoration: none;
+  background-color: #00381D;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 150px;
+  font-size: 1rem;
+  z-index: 99;
+}
+
+.Navigation .Type-products ul a span{
+  position: absolute;
+  top: 15px;
+  right: 10px;
+  transition: transform 0.3s ease;
+}
+
+.Navigation .Type-products ul a:hover{
+  background-color:#D8B604;
+  font-weight: 700;
+}
+
+.Navigation .Type-products ul a:hover span{
+  top: 12px;
+  transform: rotate(180deg);
+  transition: transform 0.3s ease;
+}
+
+.Navigation .Type-products ul a + ul{
+  display: none;
+  top: 0;
+  left: 0;
+  transition: all 1s ease;
+  position: relative;
+  z-index: 99;
+  width: 150px;
+  height: max-content;
+  padding:20px 10px;
+  background-color: rgb(241, 241, 241);
+  border-radius: 5px;
+
+}
+
+.Navigation .Type-products ul a + ul .background{
+  position: absolute;
+  width: 150px;
+  height: 10px;
+  top: -10px;
+  background-color: transparent;
+
+}
+
+.Navigation .Type-products ul .box:hover ul{
+  cursor: pointer;
+  user-select: none;
+  padding:20px 10px;
+  margin: 0;
+  display: block;
+  position: absolute;
+  left: 0;
+  animation: dropdown_hover 0.5s both ease;
+}
+
+.Navigation .Type-products ul .box:hover ul li a{
+  display: block;
+  background-color: transparent;
+  color: black;
+  width: 100%;
+  height: max-content;
+}
+
+/* .Navigation .Type-products ul .box:hover ul li:hover{
+  color: red;
+} */
+
+@keyframes dropdown_hover{
+  0%{
+    top: 0;
+    z-index: 0;
+  }
+  99%{
+    z-index: 0;
+  }
+  100%{
+    top: 60px;
+    z-index: 999;
+  }
+}
+
+/* Css cho phần Trang chủ  */
+
+/* Css cho phần intro của trang chủ  */
+
+.TrangChu{
+  position: relative;
+  z-index: 1;
+
+}
+.TrangChu .Intro_Main{
+  width: 100%;
+  position: relative;
+  margin-top: 50px;
+
+}
+
+.TrangChu .Intro_Main .IntroItem{
+  height: 600px;
+  position: relative;
+}
+
+
+.TrangChu .Intro_Main .IntroItem img{
+  position: relative;
+  width: 100%;
+  height: 600px;
+  object-fit: contain;
+  cursor: pointer;
+  user-select: none;
+  z-index: 1;
+  transform: scale(1);
+  transition: transform 0.3s ease;
+}
+
+.TrangChu .Intro_Main .IntroItem img:hover{
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+  box-shadow: 0px 4px 20px 0px #00381D;
+
+}
+
+.TrangChu .Intro_Main .IntroItem button{
+  position: absolute;
+  width: 60%;
+  height: 50px;
+  bottom: 50px;
+  left: 50%;
+  border: none;
+  background-color: black;
+  color: white;
+  transform: translateX(-50%);
+  transition: all 0.2s linear;
+  z-index: 2;
+}
+
+.TrangChu .Intro_Main .IntroItem img:hover + button{
+  background-color: #009556;
+  height: 55px;
+  width: 70%;
+}
+
+.TrangChu .Intro_Main .IntroItem button:hover{
+  background-color: yellow;
+  color: black;
+  transition: all 0.2s linear;
+}
+
+/* Css Cho phần Service  */
+.TrangChu .service{
+  margin-top: 100px;
+}
+
+.TrangChu .service img{
+  height: 250px;
+  object-fit: cover;
+  user-select: none;
+}
+
+.TrangChu .service h5{
+  font-weight: 500;
+}
+
+.TrangChu .service p{
+  color: rgb(69, 69, 69);
+  font-size: 0.9rem;
+}
+
+/* Css cho phần AboutUs  */
+
+.TrangChu .AboutUs{
+  margin-top: 100px;
+}
+
+.TrangChu .AboutUs .image{
+  height: 500px;
+  padding: 50px;
+  background-color: #00381D;
+}
+
+.TrangChu .AboutUs .image img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.TrangChu .AboutUs .descript-about{
+  padding: 0 50px;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:#00381D;
+}
+
+.TrangChu .AboutUs .descript-about h2{
+  
+  font-weight: 700;
+}
+
+/* Css cho phần Thời Trang Nam */
+.TrangChu .Thoitrangnam{
+  margin-top: 100px;
+  margin-bottom: 50px;
+  gap: 0 1%;
+}
+
+.TrangChu .titleProduct{
+  width: 100%;
+  height: 50px;
+  background-color: #009556;
+  margin-bottom: 40px;
+  box-shadow: 0px 2px 3px 0px #9d9d9d;
+  font-size: 1.2rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.TrangChu .itemProduct{
+  position: relative;
+  padding-bottom: 50px;
+  width: 24%;
+}
+
+.TrangChu .itemProduct img{
+  height: 455px;
+  object-fit: cover;
+}
+
+.TrangChu .itemProduct a{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.1rem;
+  background-color: #00150b;
+  border: none;
+}
+
+.TrangChu .itemProduct a:hover{
+  background-color: #009556;
+}
+
+.TrangChu .itemProduct .card-title{
+  height: 70px;
+  overflow: hidden;
+}
+
+/* Css cho phần Footer */
+.Footer{
+  width: 100%;
+  background-color: #003c1f;
+  margin-top: 200px;
+  padding: 50px 0 30px 0;
+}
+
+.Footer .contain{
+  margin-left: 0;
+  width: 100%;
+  list-style: none;
+  display: flex;
+  color: white;
+  padding: 0;
+}
+
+.Footer .contain .box{
+  padding: 0;
+  display: block;
+  font-size: 1.3rem;
+  color: red;
+  font-weight: 500;
+  width: 25%;
+}
+
+.Footer .contain .box p{
+  user-select: none;
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  height: 80px;
+}
+
+.Footer .contain .box ul{
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.Footer .contain .box ul li{
+  cursor: pointer;
+  color: white;
+  font-size: 1rem;
+  padding-bottom: 10px;
+}
+
+/* Css cho phần ProductSelectionPage */
+/* Css cho phần headerTypeProduct */
+.ProductTypePage{
+  padding-top: 20px;
+  margin-bottom: 50px;
+  gap: 0 1%;
+}
+
+.headerTypeProduct{
+  width: 100%;
+  display: flex;
+  padding: 10px 0;
+  margin-bottom: 20px;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(220, 220, 220);
+  margin-top: 20px;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+.ProductTypePage .titleProduct{
+  width: 100%;
+  height: 50px;
+  background-color: #009556;
+  margin-bottom: 40px;
+  box-shadow: 0px 2px 3px 0px #9d9d9d;
+  font-size: 1.2rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.ProductTypePage .itemProduct{
+  position: relative;
+  padding-bottom: 50px;
+  width: 24%;
+}
+
+.ProductTypePage .itemProduct img{
+  height: 455px;
+  object-fit: cover;
+}
+
+.ProductTypePage .itemProduct a{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.1rem;
+  background-color: #00150b;
+  border: none;
+}
+
+.ProductTypePage .itemProduct a:hover{
+  background-color: #009556;
+}
+
+.ProductTypePage .itemProduct .card-title{
+  height: 70px;
+  overflow: hidden;
+}
+
+/* Css cho phần shop */
+.shop{
+  display: none;
+  width: 450px;
+  height: 90vh;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 30px;
+  right: 10px;
+  z-index: 99;
+}
+
+.shop.show{
+  display: block;
+}
+
+.shop:hover{
+  color: black;
+}
+.shop .shop_header{
+  position: relative;
+  width: 450px;
+  height: 20%;
+  background-color: #343434 ; 
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.shop .shop_header span{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: white !important;
+}
+
+
+.shop .shop_header .head1{
+  width: 260px;
+  height: 70px;
+  background-color: #FFC700;
+  border-radius: 10px;
+  font-size: 1.3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.shop .shop_header .head1 p{
+  font-size: 1.3rem;
+}
+
+.shop .shop_content{
+  overflow-y: scroll;
+  width: 100%;
+  height: 60%;
+  background-color: #343434;
+}
+
+.navbar .container-fluid .account-nav p span{
+  color: white !important;
+}
+
+.shop .shop_content .shop_contentItem{
+  margin-bottom: 10px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 99%;
+  height: 140px;
+  background-color: #292929;
+  transform: translateX(12px);
+}
+
+.shop .shop_content .shop_contentItem .DonGia{
+  color: white;
+  justify-self: self-end;
+}
+
+.shop .shop_content .shop_contentItem .DonGia p{
+  color: rgb(255, 226, 8);
+}
+
+.shop .shop_content .shop_contentItem .DonGia span{
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  font-size: 1.5rem;
+
+}
+
+.shop .shop_content .shop_contentItem .img{
+  display: flex;
+  padding: 20px;
+  margin: 0;
+  width: 30%;
+  height: 100%;
+}
+.shop .shop_content .shop_contentItem .img img{
+  width: 100%;
+  height: 100%;
+  border-radius: 0px;
+  object-fit: cover;
+}
+
+.shop .shop_content .shop_contentItem .name p{
+  display: flex;
+  height: max-content;
+  color: white !important; 
+}
+
+.shop .shop_footer{
+  width: 450px;
+  height: 20%;
+  background-color: #1a1919;
+}
+.shop .shop_footer .footer1{
+  width: 450px;
+  height: 50px;
+  background-color: #1b1a1a;
+  position: relative;
+  font-size: 15px;
+  line-height: 50px;
+  color: #7A7A7A;
+  margin-bottom: -25px;
+}
+.shop .shop_footer .footer2{
+  width: 260px;
+  height: 50px;
+  background-color: #000000;
+  position: relative;
+  left: 100px;
+  font-size: 25px;
+  text-align: center;
+  line-height: 50px;
+  color: #FFC700;
+  top: auto;
+  margin-bottom: -10px;
+}
+.shop .shop_footer .footer3{
+  width: 260px;
+  height: 50px;
+  background-color: #000000;
+  position: relative;
+  left: 100px;
+  font-size: 25px;
+  text-align: center;
+  line-height: 50px;
+  color: yellow;
+}
+
+

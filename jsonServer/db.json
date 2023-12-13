@@ -1,0 +1,2235 @@
+{
+  "products": [
+    {
+      "Ten": "Áo Sơ Mi Tay Dài",
+      "MaSP": "A01",
+      "GioiTinh": 1,
+      "Day": {
+        "Ngay": 27,
+        "Thang": 3,
+        "Nam": 2022
+      },
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Color": [
+        "Green"
+      ],
+      "Giá": "270.000",
+      "Combo": "500.000",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-so-mi-14-10f23shlu001-green-_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-so-mi-14-10f23shlu001-green-_2__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-so-mi-14-10f23shlu001-green-_3__1_jpg.webp"
+      ],
+      "rate": 4,
+      "type": "ao"
+    },
+    {
+      "Ten": "Quần Dài Tây Nam Ống",
+      "MaSP": "Q01",
+      "GioiTinh": 1,
+      "Day": {
+        "Ngay": 27,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Color": [
+        "Black",
+        "White"
+      ],
+      "Giá": "570.000",
+      "Combo": "990.000",
+      "Img": [
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vai-14-10s23pfo006-black-_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vai-14-10s23pfo006-vapor-blue-_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vai-14-10s23pfo006-black-_1__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Jean Nam Ống Ôm Trơn Form Slim",
+      "MaSP": "Q02",
+      "GioiTinh": 1,
+      "Day": {
+        "Ngay": 28,
+        "Thang": 4,
+        "Nam": 2023
+      },
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Color": [
+        "Black"
+      ],
+      "Giá": "570.000",
+      "Combo": "990.000",
+      "Img": [
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s21dpa006cr2-d-grey-_1__2.jpg",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s21dpa006cr2-d-grey-_2__2.jpg",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s21dpa006cr2-d-grey-_3__1.jpg"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Áo Thun Nam Tay Ngắn Polyester Thêu Hình Form Fitted",
+      "MaSP": "A02",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 16,
+        "Thang": 4,
+        "Nam": 2023
+      },
+      "Color": [
+        "Black"
+      ],
+      "Giá": "589.000",
+      "Combo": "1.100.000",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-thun-nam-10f23tss001l-black-beauty-_1__2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-thun-nam-10f23tss001l-black-beauty-_2__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-thun-nam-10f23tss001l-black-beauty-_3__2_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Khoác Chần Bông Nam Cổ Trụ Phối Rib Form Regular",
+      "MaSP": "A03",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 26,
+        "Thang": 4,
+        "Nam": 2023
+      },
+      "Color": [
+        "Black",
+        "White",
+        "Yelow"
+      ],
+      "Giá": "1.374.000",
+      "Combo": "2.500.000",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23jac007_white_3__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-10f23jac007_black_3__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23jac007_sunflower_3__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Thun Cổ Cao Nam Tay Dài Trơn Form Fitted",
+      "MaSP": "A04",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 26,
+        "Thang": 5,
+        "Nam": 2023
+      },
+      "Color": [
+        "Black",
+        "White",
+        "Brown"
+      ],
+      "Giá": "149.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/e/c/ecom.18.11_117_1_2.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/e/c/ecom.18.11_112_1_2.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/e/c/ecom.18.11_118_1_2.jpg"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Khoác Nam Chần Bông Họa Tiết Form Oversize",
+      "MaSP": "A05",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 15,
+        "Thang": 5,
+        "Nam": 2023
+      },
+      "Color": [
+        "Black",
+        "White",
+        "Brown"
+      ],
+      "Giá": "899.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22jac012_green_2__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22jac012_green_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22jac012_green_4__2_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Khoác Nhung Nam Cotton Form Regular",
+      "MaSP": "A06",
+      "GioiTinh": 1,
+      "Size": [
+        "S",
+        "M"
+      ],
+      "Day": {
+        "Ngay": 16,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "Black",
+        "White",
+        "Brown"
+      ],
+      "Giá": "1.150.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f21jac022-monk-4_2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f21jac022-monk-3_2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f21jac022-monk-1_2_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Thun Nam Tay Ngắn Vải Texture Trơn Cổ Tròn Form Loose",
+      "MaSP": "A07",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 16,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "NIGHT SKY",
+        "PUMICE STONE"
+      ],
+      "Giá": "490.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-thun-nam-1-10f23tss005-night-sky-_1__1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-thun-nam-1-10f23tss005-pumice-stone-_1__2.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-thun-nam-1-10f23tss005-night-sky-_2__1.jpg"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Thun Nam Tay Dài Cotton Cổ Tròn Thêu Chữ Form Regular",
+      "MaSP": "A08",
+      "GioiTinh": 1,
+      "Size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "Day": {
+        "Ngay": 13,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "Black",
+        "ELMWOOD",
+        "WHITE ALYSSUM"
+      ],
+      "Giá": "373.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nam-3-10f23tsl003-black-_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nam-3-10f23tsl003-elmwood-_2__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nam-3-10f23tsl003-white-alyssum-_1__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Sơ Mi Nam Rộng Tay Dài Phối Rã Trơn Form Loose ",
+      "MaSP": "A09",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 14,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "PEYOTE"
+      ],
+      "Giá": "490.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-so-mi-3-10s23shl030-peyote-_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-so-mi-3-10s23shl030-peyote-_2__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-so-mi-3-10s23shl030-peyote-_5__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Sweater Nam Basic Cổ Tròn Nhãn Trang Trí Form Regular",
+      "MaSP": "A10",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 15,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "BLUE QUARTZ",
+        "BEIGE",
+        "BLACK"
+      ],
+      "Giá": "540.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-nam-10f23swe001_blue_2__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-nam-10f23swe001_beige_1__2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-nam-10f23swe001_black_1__1_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Sơ Mi Nam Tay Dài Trơn Form Fitted",
+      "MaSP": "A11",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 16,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "BRIGHT WHITE",
+        "MOOD INDIGO",
+        "ARCTIC ICE"
+      ],
+      "Giá": "",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-so-mi-nam-10s23shl003-bright-white-_2__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-so-mi-nam-10s23shl003-mood-indigo-_2__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-so-mi-nam-10s23shl003-arctic-ice-_2__3_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Sweater Nam Vải Nỉ Tay Dài Lưng In Hình Form Regular",
+      "MaSP": "A12",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "L"
+      ],
+      "Day": {
+        "Ngay": 17,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "SOFT BLUE"
+      ],
+      "Giá": "",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22swe008_soft_blue_1__2.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22swe008_soft_blue_2__2.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22swe008_soft_blue_3__2.jpg"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Thun Nam S.Café Thêu chữ Coffee Lovers Form Loose",
+      "MaSP": "A13",
+      "GioiTinh": 1,
+      "Size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "Day": {
+        "Ngay": 18,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "BLACK BEAUTY",
+        "BURNT HENNA",
+        "RAINY DAY"
+      ],
+      "Giá": "520.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-thun-nam-10f23tss062-black-beauty-_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-thun-nam-10f23tss062-black-beauty-_2__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-thun-nam-25-10f23tss062-burnt-henna-_3__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-thun-nam-25-10f23tss062-burnt-henna-_4__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-thun-nam-10f23tss062-rainy-day-_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-thun-nam-10f23tss062-rainy-day-_2__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Blazer Nam Tay Dài Trơn Vạt Đắp Chéo Form Regular",
+      "MaSP": "A14",
+      "GioiTinh": 1,
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 19,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "Black",
+        "LAWEL OAK"
+      ],
+      "Giá": "1.325.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-vest-nam-10f23ves002_black_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-vest-nam-10f23ves002_black_3__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-vest-nam-11-10f23ves002-black-_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-vest-nam-10f23ves002_lawel_oak_6__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-vest-nam-10f23ves002_lawel_oak_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-vest-nam-11-10f23ves002-lawel-oak-_2__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Khoác Nam Dây Kéo Cổ Trụ Phối Rib Form Regular",
+      "MaSP": "A15",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 20,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "Black",
+        "Red"
+      ],
+      "Giá": "1.129.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-10f23jac008_black_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-10f23jac008_black_2__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-10f23jac008_black_3__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23jac008_red_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23jac008_red_3__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23jac008_red_7__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Vest Blazer Nam Tay Dài Trơn Form Fitted",
+      "MaSP": "A16",
+      "GioiTinh": 1,
+      "Size": [
+        "M"
+      ],
+      "Day": {
+        "Ngay": 21,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "SILVER MINK",
+        "BLACK SOLID"
+      ],
+      "Giá": "1.326.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22ves001_black_solid_2__3_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22ves001_black_solid_3__3_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22ves001_black_solid_5__3_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22ves001_black_solid_6__3_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Khoác Nam Dây Kéo Cổ Trụ Phối Màu Form Regular",
+      "MaSP": "A17",
+      "GioiTinh": 1,
+      "Size": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 22,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "GOLD FLAME",
+        "PAGEANT BLUE",
+        "WHITE ALYSSUM"
+      ],
+      "Giá": "883.000 ",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23wja004_gold_flame_1__2.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23wja004_gold_flame_3__1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23wja004_pegeant_blue_2__1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23wja004_pegeant_blue_5__1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23wja004_pegeant_blue_3__1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-10f23wja004_white_alyssum_1__1_1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-10f23wja004_white_alyssum_2__1_1.jpg"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Khoác Nam Dây Kéo Cổ Trụ Phối Rib Form Regular",
+      "MaSP": "A18",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 23,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "Black",
+        "Red"
+      ],
+      "Giá": "1.129.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-10f23jac008_black_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-10f23jac008_black_2__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-10f23jac008_black_3__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23jac008_red_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23jac008_red_7__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nam-25-10f23jac008_red_2__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Vest Blazer Nam Tay Dài Trơn Form Fitted",
+      "MaSP": "A19",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 24,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "BEIGE",
+        "BLACK"
+      ],
+      "Giá": "1.228.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22ves002_beige_2_2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22ves002_beige_1_2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22ves002_beige_3_2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-vest-209-10f22ves002_black_1__4_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-vest-209-10f22ves002_black_5__4_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-vest-209-10f22ves002_black_2__4_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Khoác Blazer Nam Tay Dài Linen Trơn Form Fitted",
+      "MaSP": "A20",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 25,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "OFF WHITE"
+      ],
+      "Giá": "1.325.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-vest-nam-11-10f23ves001-off-white-_1__3_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-vest-nam-11-10f23ves001-off-white-_2__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-vest-nam-11-10f23ves001-off-white-_3__2_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Len Nam Dệt Kim Modal Rayon Họa Tiết Form Fitted",
+      "MaSP": "A21",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 26,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "Blue"
+      ],
+      "Giá": "785.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nam-14-10f23kni005-blue-_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nam-14-10f23kni005-blue-_2__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nam-14-10f23kni005-blue-_3__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Gile Len Nam Dệt Kim Sát Nách Acrylic Cổ V Form Regular",
+      "MaSP": "A22",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 27,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "BEIGE",
+        "BLACK",
+        "GREY"
+      ],
+      "Giá": "471.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-gile-nam-10f23kni007_beige_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-gile-nam-10f23kni007_beige_2__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-gile-nam-10f23kni007_black_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-gile-nam-10f23kni007_black_2__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-gile-nam-10f23kni007_grey_1__3_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-gile-nam-10f23kni007_grey_2__3_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Len Cổ Tròn Nam Tay Dài Dệt Kiểu Form Fitted",
+      "MaSP": "A23",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 27,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "BROWN",
+        "MOSS",
+        "NAVY"
+      ],
+      "Giá": "490.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni002_brown_1_5_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni002_brown_8_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni002_moss_1_4_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni002_moss_2_3_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni002_navy_1_3_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni002_navy_7_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Len Dệt Kim Nam Tay Dài Sọc Ngang Form Regular",
+      "MaSP": "A24",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 28,
+        "Thang": 7,
+        "Nam": 2023
+      },
+      "Color": [
+        "OFF WHITE/BRICK",
+        "OFF WHITE/NAVY"
+      ],
+      "Giá": "290.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni012_-_off_whitebrick_2__3_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni012_-_off_whitebrick_1__3_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni012_-_off_whitebrick_3__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni012_-_off_whitenavy_2__3_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni012_-_off_whitenavy_1__3_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni012_-_off_whitenavy_3__2_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Len Dệt Kim Nam Tay Dài Cổ Cao Trơn Form Fitted ",
+      "MaSP": "A25",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 12,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Color": [
+        "GREY MELANGE",
+        "OFF WHITE"
+      ],
+      "Giá": "480.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni009--grey-melange--_1__2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni009--grey-melange--_5__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni009--grey-melange--_6__2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni009_-_off_white_2__2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni009_-_off_white_1__1_2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f22kni009_-_off_white_4__2_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Quần Jean Nam Garment Dye Trơn Form Straight Cropped  ",
+      "MaSP": "Q01",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 17,
+        "Thang": 8,
+        "Nam": 2023
+      },
+      "Color": [
+        "DESERT PALM",
+        "PUMICE STONE"
+      ],
+      "Giá": "638.000 ",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-14-10f23dpa009p-desert-palm-_1__1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-14-10f23dpa009p-desert-palm-_2__1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-14-10f23dpa009p-desert-palm-_3__1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-14-10f23dpa009p-pumice-stone-_1__2.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-14-10f23dpa009p-pumice-stone-_2__2.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-14-10f23dpa009p-pumice-stone-_3__1.jpg"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Jean Nam Ống Ôm Trơn Form Slim",
+      "MaSP": "Q02",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 18,
+        "Thang": 8,
+        "Nam": 2023
+      },
+      "Color": [
+        "D/GREY"
+      ],
+      "Giá": "540.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s21dpa006cr2-d-grey-_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s21dpa006cr2-d-grey-_2__2_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s21dpa006cr2-d-grey-_3__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s21dpa006cr2-d-grey-_6__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s21dpa006cr2-d-grey-_5__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Jean Nam Ống Rộng Trơn Form Straight Crop",
+      "MaSP": "Q03",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 19,
+        "Thang": 8,
+        "Nam": 2023
+      },
+      "Color": [
+        "BLACK"
+      ],
+      "Giá": "540.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-1010-10f23dpa022_black_1__4.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-1010-10f23dpa022_black_2__4.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-1010-10f23dpa022_black_3__4.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-1010-10f23dpa022_black_4__4.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-1010-10f23dpa022_black_5__4.jpg"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Jean Nam Ống Ôm Phối Dây Kéo Lai Form Skinny Crop",
+      "MaSP": "Q04",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 20,
+        "Thang": 8,
+        "Nam": 2023
+      },
+      "Color": [
+        "M/INDIGO"
+      ],
+      "Giá": "589.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa001_m_indigo_1__4_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa001_m_indigo_10__4_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa001_m_indigo_9__4_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa001_m_indigo_2__4_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa001_m_indigo_3__4_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa001_m_indigo_4__4_jpg.webp   "
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": " Quần Jean Nam Ống Rộng Trơn Form Straight Crop",
+      "MaSP": "Q05",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 22,
+        "Thang": 8,
+        "Nam": 2023
+      },
+      "Color": [
+        "BLACK"
+      ],
+      "Giá": "540.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-1010-10f23dpa022_black_1__4.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-1010-10f23dpa022_black_2__4.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-1010-10f23dpa022_black_3__4.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-1010-10f23dpa022_black_4__4.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-1010-10f23dpa022_black_5__4.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10f23dpa022_black_4__3.jpg"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Jean Nam Ống Ôm Phối Dây Kéo Lai Form Skinny Crop",
+      "MaSP": "Q06",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Color": [
+        "M/INDIGO"
+      ],
+      "Day": {
+        "Ngay": 23,
+        "Thang": 8,
+        "Nam": 2023
+      },
+      "Giá": "589.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa001_m_indigo_1__4_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa001_m_indigo_10__4_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa001_m_indigo_9__4_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa001_m_indigo_2__4_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Jean Nam Trơn Form Slim ",
+      "MaSP": "Q07",
+      "GioiTinh": 1,
+      "Size": [
+        "S",
+        "XS",
+        "L",
+        "XL"
+      ],
+      "Day": {
+        "Ngay": 24,
+        "Thang": 8,
+        "Nam": 2023
+      },
+      "Color": [
+        "L/INDIGO"
+      ],
+      "Giá": "569.000 ",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23dpa012_l_indigo-quan-jean-nam_1__5_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23dpa012_l_indigo-quan-jean-nam_2__5_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23dpa012_l_indigo-quan-jean-nam_3__5_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23dpa012_l_indigo-quan-jean-nam_4__5_jpg.webp"
+      ],
+      "rate": 4,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần jean túi hộp.Jogger",
+      "MaSP": "Q08",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 1,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Color": [
+        "BROWN",
+        "GRAPE LEAF"
+      ],
+      "Giá": "638.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa029_brown_1_79_4_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa029_brown_3_79_4_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10s23dpa029_brown_4_79_4_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23dpa029_grape_leaf_1__2_1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23dpa029_grape_leaf_5__2_1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23dpa029_grape_leaf_2__2_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Jean Nam Trơn Form Skinny",
+      "MaSP": "Q09",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 2,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Color": [
+        "BLACK"
+      ],
+      "Giá": "249.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f20dpa100cr2_black-quan-jean-nam_1__3_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f20dpa100cr2_black-quan-jean-nam_2__3_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f20dpa100cr2_black-quan-jean-nam_3__3_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f20dpa100cr2_black-quan-jean-nam_4__3_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Jean Nam Trơn Form Straight Crop",
+      "MaSP": "Q10",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 3,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Color": [
+        "D/NAVY"
+      ],
+      "Giá": "540.000 ",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23dpa019_d_navy_1__6.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23dpa019_d_navy_2__6.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23dpa019_d_navy_3__6.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23dpa019_d_navy-quan-jean-nam_6__5_1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23dpa019_d_navy-quan-jean-nam_7__5_1.jpg"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Jean Nam Trơn Form Slim Crop",
+      "MaSP": "Q11",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 4,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Color": [
+        "M/INDIGO"
+      ],
+      "Giá": "490.000 ",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10f22dpa107cr2-m-indigo-_2__3.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10f22dpa107cr2-m-indigo-_3__3.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10f22dpa107cr2-m-indigo-_4__3.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10f22dpa107cr2-m-indigo-_5__3.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-jean-nam-10f22dpa107cr2-m-indigo-_6__3.jpg"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Short Nỉ Unisex Trơn Ống Rộng Form ",
+      "MaSP": "Q12",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 5,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Color": [
+        "BEIGE",
+        "BLACK",
+        "BLUE QUARTZ"
+      ],
+      "Giá": "422.000 ",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-nam-10f23pks016_beige_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f23pks016-beige-_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f23pks016-beige-_2__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-nam-10f23pks016_black_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f23pks016-black-_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f23pks016-black-_2__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-nam-10f23pks016_blue_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f23pks016-blue-quartz-_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f23pks016-blue-quartz-_2__1_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Short Nam Kaki Ống Rộng Lưng Thun Trơn Form Relax",
+      "MaSP": "Q13",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 6,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Color": [
+        "BLACK",
+        "OFF WHITE",
+        "KELP"
+      ],
+      "Giá": "422.000 ",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23psh009-black-_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23psh009-black-_2__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23psh009-off-white-_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23psh009-off-white-_2__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23psh009-kelp-_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23psh009-kelp-_2__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Âu Nam Twill Ống Ôm Xếp Ly Trơn Form Slim Crop",
+      "MaSP": "Q14",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 7,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Color": [
+        "BLACK",
+        "LAWEL OAK"
+      ],
+      "Giá": "540.000 ",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vai-nam-1010-10f23pfo001_black_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vai-nam-1010-10f23pfo001_black_5__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vai-nam-1010-10f23pfo001_black_6__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f23pfo001_lawel_oak_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f23pfo001_lawel_oak_2__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10f23pfo001_lawel_oak_3__1_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Quần Kaki Nam Ống Đứng Xếp Ly Trơn Form Straight Crop",
+      "MaSP": "Q15",
+      "GioiTinh": 1,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 8,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Color": [
+        "BEIGE",
+        "BLACK"
+      ],
+      "Giá": "569.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-kaki-nam-11-10s23pca011-beige-_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-kaki-nam-11-10s23pca011-beige-_2__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-kaki-nam-11-10s23pca011-beige-_3__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-kaki-nam-11-10s23pca011-black-_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-kaki-nam-11-10s23pca011-black-_2__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-kaki-nam-11-10s23pca011-black-_3__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Áo Khoác Chần Bông Nữ Nylon Phối Màu Form Regular - 10F23JACW004",
+      "MaSP": "A26",
+      "GioiTinh": 0,
+      "Size": [
+        "X",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "Day": {
+        "Ngay": 9,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Color": [
+        "BLACK,BROWN"
+      ],
+      "Giá": "1.178.000 ₫",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-10f23jacw004_black_8__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-10f23jacw004_black_10__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-10f23jacw004_black_9__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-10f23jacw004_black_11__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-10f23jacw004_black_12__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-10f23jacw004_black_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-11-10f23jacw004_brown_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-11-10f23jacw004_brown_2__1_jpg.webp"
+      ],
+      "rate": 4,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Len Nữ Dệt Kim Viscose Tay Lửng Trơn Form Fitted - 10F23KNIW011",
+      "MaSP": "A27",
+      "GioiTinh": 0,
+      "Size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "Day": {
+        "Ngay": 10,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Color": [
+        "BLACK,YELLO,PURPLE,WHITE,"
+      ],
+      "Giá": "392.000",
+      "Combo": "0",
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nu-10f23kniw011-purple-_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nu-25-10f23kniw011_black_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nu-10f23kniw011-white-_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nu-10f23kniw011-yellow-_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5de180fdba0e830d350bd2803a0413e8/a/o/ao-blazer-nu-10f23vesw001_brown_5__2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5de180fdba0e830d350bd2803a0413e8/a/o/ao-len-nu-14-10f22kniw001r1black_1__2_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Quần Lót Nữ Trơn Không Đường May - 10S23UNDW001R1",
+      "MaSP": "A28",
+      "GioiTinh": 0,
+      "Day": {
+        "Ngay": 17,
+        "Thang": 2,
+        "Nam": 2021
+      },
+      "Size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "Color": [
+        "ASH PURPLE,BLACK,COFFEE,MATCH GREEN,PINK,SKIN"
+      ],
+      "Giá": "94.000",
+      "Combo": {
+        "soLuong": 2,
+        "GiamGia": 20
+      },
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22undw003_ash_purple_20__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22undw003_black_14__4_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22undw003_coffee_16__4_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22undw003_match_green_10__3_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22undw003_pink_8__5_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22undw003_skin_18__4_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "quan"
+    },
+    {
+      "Ten": "Đồ Bơi Bikini Nữ Một Mảnh - 10S22SWIW002",
+      "MaSP": "A29",
+      "GioiTinh": 0,
+      "Day": {
+        "Ngay": 16,
+        "Thang": 1,
+        "Nam": 2022
+      },
+      "Size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "Color": [
+        "BLACK,BROWN",
+        "GREEN"
+      ],
+      "Giá": "450.000 ₫",
+      "Combo": {
+        "soLuong": 2,
+        "GiamGia": 67
+      },
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22swiw002---black-_10__optimized_2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22swiw002_-_brown_5_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22swiw002---green-_14__optimized_1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22swiw002---green-_15__optimized_1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22swiw002---black-_11__optimized_1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22swiw002_-_brown_2_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Đồ Bơi Bikini Nữ 2 Mảnh 2 Dây Lưng Cao Trơn - 10S23SWIW001",
+      "MaSP": "A30",
+      "GioiTinh": 0,
+      "Day": {
+        "Ngay": 17,
+        "Thang": 1,
+        "Nam": 2022
+      },
+      "Size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "Color": [
+        "BEL AIR BLUE,BLACK BEAUTY"
+      ],
+      "Giá": "499.000",
+      "Combo": {
+        "soLuong": 2,
+        "GiamGia": 50
+      },
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-b_i-nu-10s23swiw001_-_b02_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-b_i-nu-10s23swiw001_-_b02_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-b_i-nu-10s23swiw001_-_b02_3__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-b_i-nu-10s23swiw001_-_x1_2__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-b_i-nu-10s23swiw001_-_x1_2__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-b_i-nu-10s23swiw001_-_x1_2__1_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Đồ Bơi Swimsuit Nữ 1 Mảnh Cổ Yếm Trơn - 10S23SWIW011",
+      "MaSP": "A31",
+      "GioiTinh": 0,
+      "Day": {
+        "Ngay": 17,
+        "Thang": 3,
+        "Nam": 2023
+      },
+      "Size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "Color": [
+        "BEL AIR BLUE,BLACK BEAUTY"
+      ],
+      "Giá": "549.000",
+      "Combo": {
+        "soLuong": 2,
+        "GiamGia": 50
+      },
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-boi-r-10s23swiw011-09_4__1_1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-boi-r-10s23swiw011-09_3__1_1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-boi-r-10s23swiw011-08_1__1_1_1_jpg.webp ",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-boi-r-10s23swiw011-08_3__1_1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23swiw011_black_beauty-do-boi-_3__1_1_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Đồ Bơi Bikini Nữ 2 Mảnh Cổ Yếm Cạp Thấp Nylon Trơn - 10S23SWIW004",
+      "MaSP": "A32",
+      "GioiTinh": 0,
+      "Day": {
+        "Ngay": 17,
+        "Thang": 4,
+        "Nam": 2022
+      },
+      "Size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "Color": [
+        "CHAM BLUE STRP,GOLD NUG.STRP"
+      ],
+      "Giá": "324.500",
+      "Combo": {
+        "soLuong": 2,
+        "GiamGia": 50
+      },
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23drew008_cham_blue_1__2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23drew008_cham_blue_2__2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23drew008_cham_blue_3__2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/a/dam-nu-10s23drew008-gold-nuge-stripe-_7__1_1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/a/dam-nu-10s23drew008-gold-nuge-stripe-_9__1_1_1_jpg.webp"
+      ],
+      "rate": 4,
+      "type": "ao"
+    },
+    {
+      "Ten": "Đầm Nữ Nhún Vai Tay Lửng Cổ V Form Fitted - 10S21DREW006",
+      "MaSP": "A33",
+      "GioiTinh": 0,
+      "Day": {
+        "Ngay": 18,
+        "Thang": 5,
+        "Nam": 2023
+      },
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "Color": [
+        "BEIGE,BLACK"
+      ],
+      "Giá": "750.000",
+      "Combo": {
+        "soLuong": 2,
+        "GiamGia": 50
+      },
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-be.1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-be.3_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-be.2_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-be.4_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-navy.11_2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-navy.13_2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-navy.12_2_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Quần Dài Nữ Ống Rộng Túi Ẩn Form Straight - 10F22PFOW001",
+      "MaSP": "A34",
+      "GioiTinh": 0,
+      "Day": {
+        "Ngay": 1,
+        "Thang": 1,
+        "Nam": 2023
+      },
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "Color": [
+        "DEEP BLACK,GREY,OYSTER GRAY"
+      ],
+      "Giá": "550.000",
+      "Combo": {
+        "soLuong": 2,
+        "GiamGia": 55
+      },
+      "Img": [
+        "https://routine.vn/media/catalog/product/cache/5de180fdba0e830d350bd2803a0413e8/q/u/quan-vai-nu-10f22pfow001_black_2__1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vao-nu-10f22pfow001_grey_6__1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vai-nu-10f22pfow001_oysster_gray_6_1_1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vai-nu-10f22pfow001_oysster_gray_5_1_1.jpg",
+        "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vai-nu-10f22pfow001_black_3__1.jpg"
+      ],
+      "rate": 4,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Tanktop 2 Dây Nữ Cổ Tim Sọc Gân Trơn Form Slim - 10S23TTOW003",
+      "MaSP": "A35",
+      "GioiTinh": 0,
+      "Day": {
+        "Ngay": 20,
+        "Thang": 8,
+        "Nam": 2023
+      },
+      "Size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "Color": [
+        "SAFARI,CANARY YELLOW,DEEPULTRAMARINE,BLACK,BRIGHT WHITE"
+      ],
+      "Giá": "4179.000",
+      "Combo": {
+        "soLuong": 2,
+        "GiamGia": 2
+      },
+      "Img": [
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow003_bright_white_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-tanktop-nu-10s23ttow003_safari_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-tanktop-nu-10s23ttow003_safari_2__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-tanktop-nu-10s23ttow003_safari_3__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-tanktop-nu-10s23ttow003_safari_4__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-hai-day-nu-10s23ttow003_canary_yellow_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-hai-day-nu-10s23ttow003_deepultramarine_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-hai-day-nu-10s23ttow003_black_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow003_bright_white_3__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow003_bright_white_4__1_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Tanktop Nữ 2 Dây Rút Nhún Cài Nút Trơn Form Fitted Crop - 10S23TTOW012",
+      "MaSP": "A36",
+      "GioiTinh": 0,
+      "Day": {
+        "Ngay": 8,
+        "Thang": 9,
+        "Nam": 2023
+      },
+      "Size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "Color": [
+        "TEA,WHITE"
+      ],
+      "Giá": "349.000",
+      "Combo": {
+        "soLuong": 2,
+        "GiamGia": 29
+      },
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow012_white-ao-hai-day_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow012_white-ao-hai-day_5__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow012_tea-ao-hai-day_1__1_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow012_tea-ao-hai-day_4__1_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Gilet Nữ Twill Trơn Form Regular - 10S23GILW001",
+      "MaSP": "A37",
+      "GioiTinh": 0,
+      "Day": {
+        "Ngay": 10,
+        "Thang": 6,
+        "Nam": 2023
+      },
+      "Size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "Color": [
+        "BLACK"
+      ],
+      "Giá": "599.000",
+      "Combo": {
+        "soLuong": 2,
+        "GiamGia": 2
+      },
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-nu-10s23gilw001_black_1__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-nu-10s23gilw001_black_4__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-nu-10s23gilw001_black_2__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-nu-10s23gilw001_black_3__2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23gilw001_black-ao-gilet_1__1_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Áo Sơ Mi Nữ Tay Dài Vải Coffee Túi Đắp Trơn Form Loose - 10S23SHLW025",
+      "MaSP": "A38",
+      "GioiTinh": 0,
+      "Day": {
+        "Ngay": 19,
+        "Thang": 4,
+        "Nam": 2023
+      },
+      "Size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "Color": [
+        "WHITE"
+      ],
+      "Giá": "579.000",
+      "Combo": {
+        "soLuong": 2,
+        "GiamGia": 2
+      },
+      "Img": [
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23shlw025_white_3__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23shlw025_white_1__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23shlw025_white_2__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23shlw025_white_4__1_jpg.webp",
+        "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23shlw025_white_5__1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    },
+    {
+      "Ten": "Đồ Bơi Swimsuit Nữ 1 Mảnh Cổ Yếm Trơn - 10S23SWIW011",
+      "MaSP": "A39",
+      "GioiTinh": 0,
+      "Day": {
+        "Ngay": 17,
+        "Thang": 1,
+        "Nam": 2022
+      },
+      "Size": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "Color": [
+        "OLIVE,BLACK"
+      ],
+      "Giá": "780.000",
+      "Combo": {
+        "soLuong": 2,
+        "GiamGia": 74
+      },
+      "Img": [
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew001_-_olive_2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew001_-_olive-6_2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew001_-_olive-3_2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew001_-_olive-3_2_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew001_-_black-7_1_jpg.webp",
+        "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew001_-_black-3_1_jpg.webp"
+      ],
+      "rate": 5,
+      "type": "ao"
+    }
+  ],
+  "users": [
+    {
+      "id": "123",
+      "name": "duong",
+      "password": "123",
+      "email": "duo@gmail.com",
+      "phone": "gfd",
+      "address": "sdg",
+      "gender": "male",
+      "MyShop": [],
+      "Ctsp": [
+        {
+          "index": 6,
+          "List": [
+            {
+              "Ten": "Áo Khoác Chần Bông Nữ Nylon Phối Màu Form Regular - 10F23JACW004",
+              "MaSP": "A26",
+              "GioiTinh": 0,
+              "Size": [
+                "X",
+                "XL",
+                "L",
+                "XXL"
+              ],
+              "Day": {
+                "Ngay": 9,
+                "Thang": 9,
+                "Nam": 2023
+              },
+              "Color": [
+                "BLACK,BROWN"
+              ],
+              "Giá": "1.178.000 ₫",
+              "Combo": "0",
+              "Img": [
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-10f23jacw004_black_8__1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-10f23jacw004_black_10__1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-10f23jacw004_black_9__1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-10f23jacw004_black_11__1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-10f23jacw004_black_12__1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-10f23jacw004_black_1__1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-11-10f23jacw004_brown_1__1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-khoac-nu-11-10f23jacw004_brown_2__1_jpg.webp"
+              ],
+              "rate": 4,
+              "type": "ao"
+            },
+            {
+              "Ten": "Áo Len Nữ Dệt Kim Viscose Tay Lửng Trơn Form Fitted - 10F23KNIW011",
+              "MaSP": "A27",
+              "GioiTinh": 0,
+              "Size": [
+                "S",
+                "M",
+                "L"
+              ],
+              "Day": {
+                "Ngay": 10,
+                "Thang": 9,
+                "Nam": 2023
+              },
+              "Color": [
+                "BLACK,YELLO,PURPLE,WHITE,"
+              ],
+              "Giá": "392.000",
+              "Combo": "0",
+              "Img": [
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nu-10f23kniw011-purple-_1__1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nu-25-10f23kniw011_black_1__1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nu-10f23kniw011-white-_1__1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-len-nu-10f23kniw011-yellow-_1__1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5de180fdba0e830d350bd2803a0413e8/a/o/ao-blazer-nu-10f23vesw001_brown_5__2_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5de180fdba0e830d350bd2803a0413e8/a/o/ao-len-nu-14-10f22kniw001r1black_1__2_jpg.webp"
+              ],
+              "rate": 5,
+              "type": "ao"
+            },
+            {
+              "Ten": "Quần Lót Nữ Trơn Không Đường May - 10S23UNDW001R1",
+              "MaSP": "A28",
+              "GioiTinh": 0,
+              "Day": {
+                "Ngay": 17,
+                "Thang": 2,
+                "Nam": 2021
+              },
+              "Size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+              ],
+              "Color": [
+                "ASH PURPLE,BLACK,COFFEE,MATCH GREEN,PINK,SKIN"
+              ],
+              "Giá": "94.000",
+              "Combo": {
+                "soLuong": 2,
+                "GiamGia": 20
+              },
+              "Img": [
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22undw003_ash_purple_20__1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22undw003_black_14__4_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22undw003_coffee_16__4_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22undw003_match_green_10__3_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22undw003_pink_8__5_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22undw003_skin_18__4_jpg.webp"
+              ],
+              "rate": 5,
+              "type": "quan"
+            },
+            {
+              "Ten": "Đồ Bơi Bikini Nữ Một Mảnh - 10S22SWIW002",
+              "MaSP": "A29",
+              "GioiTinh": 0,
+              "Day": {
+                "Ngay": 16,
+                "Thang": 1,
+                "Nam": 2022
+              },
+              "Size": [
+                "S",
+                "M",
+                "L"
+              ],
+              "Color": [
+                "BLACK,BROWN",
+                "GREEN"
+              ],
+              "Giá": "450.000 ₫",
+              "Combo": {
+                "soLuong": 2,
+                "GiamGia": 67
+              },
+              "Img": [
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22swiw002---black-_10__optimized_2_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22swiw002_-_brown_5_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22swiw002---green-_14__optimized_1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22swiw002---green-_15__optimized_1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22swiw002---black-_11__optimized_1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s22swiw002_-_brown_2_1_jpg.webp"
+              ],
+              "rate": 5,
+              "type": "ao"
+            },
+            {
+              "Ten": "Đồ Bơi Bikini Nữ 2 Mảnh 2 Dây Lưng Cao Trơn - 10S23SWIW001",
+              "MaSP": "A30",
+              "GioiTinh": 0,
+              "Day": {
+                "Ngay": 17,
+                "Thang": 1,
+                "Nam": 2022
+              },
+              "Size": [
+                "S",
+                "M",
+                "L"
+              ],
+              "Color": [
+                "BEL AIR BLUE,BLACK BEAUTY"
+              ],
+              "Giá": "499.000",
+              "Combo": {
+                "soLuong": 2,
+                "GiamGia": 50
+              },
+              "Img": [
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-b_i-nu-10s23swiw001_-_b02_1__2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-b_i-nu-10s23swiw001_-_b02_1__2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-b_i-nu-10s23swiw001_-_b02_3__2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-b_i-nu-10s23swiw001_-_x1_2__1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-b_i-nu-10s23swiw001_-_x1_2__1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-b_i-nu-10s23swiw001_-_x1_2__1_1_jpg.webp"
+              ],
+              "rate": 5,
+              "type": "ao"
+            },
+            {
+              "Ten": "Đồ Bơi Swimsuit Nữ 1 Mảnh Cổ Yếm Trơn - 10S23SWIW011",
+              "MaSP": "A31",
+              "GioiTinh": 0,
+              "Day": {
+                "Ngay": 17,
+                "Thang": 3,
+                "Nam": 2023
+              },
+              "Size": [
+                "S",
+                "M",
+                "L"
+              ],
+              "Color": [
+                "BEL AIR BLUE,BLACK BEAUTY"
+              ],
+              "Giá": "549.000",
+              "Combo": {
+                "soLuong": 2,
+                "GiamGia": 50
+              },
+              "Img": [
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-boi-r-10s23swiw011-09_4__1_1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-boi-r-10s23swiw011-09_3__1_1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-boi-r-10s23swiw011-08_1__1_1_1_jpg.webp ",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/o/do-boi-r-10s23swiw011-08_3__1_1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23swiw011_black_beauty-do-boi-_3__1_1_1_jpg.webp"
+              ],
+              "rate": 5,
+              "type": "ao"
+            },
+            {
+              "Ten": "Đồ Bơi Bikini Nữ 2 Mảnh Cổ Yếm Cạp Thấp Nylon Trơn - 10S23SWIW004",
+              "MaSP": "A32",
+              "GioiTinh": 0,
+              "Day": {
+                "Ngay": 17,
+                "Thang": 4,
+                "Nam": 2022
+              },
+              "Size": [
+                "S",
+                "M",
+                "L"
+              ],
+              "Color": [
+                "CHAM BLUE STRP,GOLD NUG.STRP"
+              ],
+              "Giá": "324.500",
+              "Combo": {
+                "soLuong": 2,
+                "GiamGia": 50
+              },
+              "Img": [
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23drew008_cham_blue_1__2_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23drew008_cham_blue_2__2_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23drew008_cham_blue_3__2_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/a/dam-nu-10s23drew008-gold-nuge-stripe-_7__1_1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/d/a/dam-nu-10s23drew008-gold-nuge-stripe-_9__1_1_1_jpg.webp"
+              ],
+              "rate": 4,
+              "type": "ao"
+            },
+            {
+              "Ten": "Đầm Nữ Nhún Vai Tay Lửng Cổ V Form Fitted - 10S21DREW006",
+              "MaSP": "A33",
+              "GioiTinh": 0,
+              "Day": {
+                "Ngay": 18,
+                "Thang": 5,
+                "Nam": 2023
+              },
+              "Size": [
+                "XS",
+                "S",
+                "M",
+                "L"
+              ],
+              "Color": [
+                "BEIGE,BLACK"
+              ],
+              "Giá": "750.000",
+              "Combo": {
+                "soLuong": 2,
+                "GiamGia": 50
+              },
+              "Img": [
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-be.1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-be.3_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-be.2_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-be.4_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-navy.11_2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-navy.13_2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew006-navy.12_2_jpg.webp"
+              ],
+              "rate": 5,
+              "type": "ao"
+            },
+            {
+              "Ten": "Quần Dài Nữ Ống Rộng Túi Ẩn Form Straight - 10F22PFOW001",
+              "MaSP": "A34",
+              "GioiTinh": 0,
+              "Day": {
+                "Ngay": 1,
+                "Thang": 1,
+                "Nam": 2023
+              },
+              "Size": [
+                "XS",
+                "S",
+                "M",
+                "L"
+              ],
+              "Color": [
+                "DEEP BLACK,GREY,OYSTER GRAY"
+              ],
+              "Giá": "550.000",
+              "Combo": {
+                "soLuong": 2,
+                "GiamGia": 55
+              },
+              "Img": [
+                "https://routine.vn/media/catalog/product/cache/5de180fdba0e830d350bd2803a0413e8/q/u/quan-vai-nu-10f22pfow001_black_2__1.jpg",
+                "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vao-nu-10f22pfow001_grey_6__1.jpg",
+                "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vai-nu-10f22pfow001_oysster_gray_6_1_1.jpg",
+                "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vai-nu-10f22pfow001_oysster_gray_5_1_1.jpg",
+                "https://routine.vn/media/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/q/u/quan-vai-nu-10f22pfow001_black_3__1.jpg"
+              ],
+              "rate": 4,
+              "type": "ao"
+            },
+            {
+              "Ten": "Áo Tanktop 2 Dây Nữ Cổ Tim Sọc Gân Trơn Form Slim - 10S23TTOW003",
+              "MaSP": "A35",
+              "GioiTinh": 0,
+              "Day": {
+                "Ngay": 20,
+                "Thang": 8,
+                "Nam": 2023
+              },
+              "Size": [
+                "S",
+                "M",
+                "L"
+              ],
+              "Color": [
+                "SAFARI,CANARY YELLOW,DEEPULTRAMARINE,BLACK,BRIGHT WHITE"
+              ],
+              "Giá": "4179.000",
+              "Combo": {
+                "soLuong": 2,
+                "GiamGia": 2
+              },
+              "Img": [
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow003_bright_white_1__1_1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-tanktop-nu-10s23ttow003_safari_1__1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-tanktop-nu-10s23ttow003_safari_2__1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-tanktop-nu-10s23ttow003_safari_3__1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-tanktop-nu-10s23ttow003_safari_4__1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-hai-day-nu-10s23ttow003_canary_yellow_1__1_1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-hai-day-nu-10s23ttow003_deepultramarine_1__1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-hai-day-nu-10s23ttow003_black_1__1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow003_bright_white_3__1_1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow003_bright_white_4__1_1_jpg.webp"
+              ],
+              "rate": 5,
+              "type": "ao"
+            },
+            {
+              "Ten": "Áo Tanktop Nữ 2 Dây Rút Nhún Cài Nút Trơn Form Fitted Crop - 10S23TTOW012",
+              "MaSP": "A36",
+              "GioiTinh": 0,
+              "Day": {
+                "Ngay": 8,
+                "Thang": 9,
+                "Nam": 2023
+              },
+              "Size": [
+                "S",
+                "M",
+                "L"
+              ],
+              "Color": [
+                "TEA,WHITE"
+              ],
+              "Giá": "349.000",
+              "Combo": {
+                "soLuong": 2,
+                "GiamGia": 29
+              },
+              "Img": [
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow012_white-ao-hai-day_1__1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow012_white-ao-hai-day_5__1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow012_tea-ao-hai-day_1__1_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23ttow012_tea-ao-hai-day_4__1_1_jpg.webp"
+              ],
+              "rate": 5,
+              "type": "ao"
+            },
+            {
+              "Ten": "Áo Gilet Nữ Twill Trơn Form Regular - 10S23GILW001",
+              "MaSP": "A37",
+              "GioiTinh": 0,
+              "Day": {
+                "Ngay": 10,
+                "Thang": 6,
+                "Nam": 2023
+              },
+              "Size": [
+                "S",
+                "M",
+                "L"
+              ],
+              "Color": [
+                "BLACK"
+              ],
+              "Giá": "599.000",
+              "Combo": {
+                "soLuong": 2,
+                "GiamGia": 2
+              },
+              "Img": [
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-nu-10s23gilw001_black_1__2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-nu-10s23gilw001_black_4__2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-nu-10s23gilw001_black_2__2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/a/o/ao-nu-10s23gilw001_black_3__2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23gilw001_black-ao-gilet_1__1_1_jpg.webp"
+              ],
+              "rate": 5,
+              "type": "ao"
+            },
+            {
+              "Ten": "Áo Sơ Mi Nữ Tay Dài Vải Coffee Túi Đắp Trơn Form Loose - 10S23SHLW025",
+              "MaSP": "A38",
+              "GioiTinh": 0,
+              "Day": {
+                "Ngay": 19,
+                "Thang": 4,
+                "Nam": 2023
+              },
+              "Size": [
+                "S",
+                "M",
+                "L"
+              ],
+              "Color": [
+                "WHITE"
+              ],
+              "Giá": "579.000",
+              "Combo": {
+                "soLuong": 2,
+                "GiamGia": 2
+              },
+              "Img": [
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23shlw025_white_3__1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23shlw025_white_1__1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23shlw025_white_2__1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23shlw025_white_4__1_jpg.webp",
+                "https://routine.vn/media/amasty/amoptmobile/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s23shlw025_white_5__1_jpg.webp"
+              ],
+              "rate": 5,
+              "type": "ao"
+            },
+            {
+              "Ten": "Đồ Bơi Swimsuit Nữ 1 Mảnh Cổ Yếm Trơn - 10S23SWIW011",
+              "MaSP": "A39",
+              "GioiTinh": 0,
+              "Day": {
+                "Ngay": 17,
+                "Thang": 1,
+                "Nam": 2022
+              },
+              "Size": [
+                "XS",
+                "S",
+                "M",
+                "L"
+              ],
+              "Color": [
+                "OLIVE,BLACK"
+              ],
+              "Giá": "780.000",
+              "Combo": {
+                "soLuong": 2,
+                "GiamGia": 74
+              },
+              "Img": [
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew001_-_olive_2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew001_-_olive-6_2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew001_-_olive-3_2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew001_-_olive-3_2_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew001_-_black-7_1_jpg.webp",
+                "https://routine.vn/media/amasty/webp/catalog/product/cache/5b5632a96492396f42c72e22fdd64763/1/0/10s21drew001_-_black-3_1_jpg.webp"
+              ],
+              "rate": 5,
+              "type": "ao"
+            }
+          ]
+        }
+      ],
+      "Pay": {
+        "Address": "",
+        "sdt": "",
+        "tienmat": "1",
+        "chuyenkhoan": "0",
+        "Combo": ""
+      }
+    }
+  ]
+}
